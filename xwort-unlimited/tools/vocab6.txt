@@ -1,0 +1,55 @@
+RENE|Vorname Descartes'|René Descartes begründete mit „Cogito ergo sum“ den neuzeitlichen Rationalismus.
+SEEN|Masurische ...: Schlacht 1914|Hindenburg schlug dort im September 1914 die russische Njemen-Armee.
+ELITE|Napoleons Garde war seine ...truppe|Die Alte Garde griff bei Waterloo als letzte Reserve an.
+EBOLA|1976 entdecktes Virus, benannt nach einem Fluss im Kongo|Der Ausbruch in Westafrika 2014–2016 forderte über 11.000 Tote.
+ERSTE|Der ... Weltkrieg|Er dauerte von 1914 bis 1918; George Kennan nannte ihn die „Urkatastrophe“ des 20. Jahrhunderts.
+ALTE|„Der ...“: Spitzname Adenauers|Konrad Adenauer wurde mit 73 Jahren erster Bundeskanzler.
+ALAN|... Turing, Enigma-Knacker|Turings Rechenmaschinen in Bletchley Park verkürzten wohl den Krieg.
+IDEE|„Die ... des Guten“: Platons höchstes Prinzip|Im Höhlengleichnis entspricht sie der Sonne.
+LESE|Wein...: Erntezeit der Trauben|Die Römer brachten den Weinbau an Rhein und Mosel.
+TARA|Hügel der irischen Hochkönige|Auf dem Hill of Tara wurden die Hochkönige Irlands gekrönt.
+SINTI|Im Nationalsozialismus verfolgte Minderheit|Hunderttausende Sinti und Roma wurden im Porajmos ermordet.
+EDLER|„... von ...“: niedrigster Adelstitel in Österreich|In Österreich wurde der Adel 1919 abgeschafft.
+AALEN|Stadt mit dem größten Reiterkastell am Limes|Das Kastell Aalen beherbergte eine Reitereinheit von 1000 Mann.
+ADOLF|Gustav II. ..., Schwedenkönig|Er griff 1630 in den Dreißigjährigen Krieg ein und fiel 1632 bei Lützen.
+IKONE|Heiliges Bild der Ostkirche, Zankapfel im Bilderstreit|Der byzantinische Bilderstreit tobte von 726 bis 843.
+OEL|...krise 1973|Die arabischen Förderländer drosselten die Lieferungen an den Westen.
+IMAM|Vorbeter; bei Schiiten: Nachfolger Alis|Die Zwölferschiiten erwarten die Wiederkehr des zwölften Imams.
+SIR|Anrede eines englischen Ritters|Francis Drake wurde 1581 an Bord der Golden Hind zum Ritter geschlagen.
+KAP|... der Guten Hoffnung|Bartolomeu Dias umsegelte es 1488.
+RIO|... de Janeiro: Hauptstadt Brasiliens bis 1960|Danach wurde Brasília Hauptstadt.
+UDSSR|Sowjetunion (Abk.)|Die Union der Sozialistischen Sowjetrepubliken bestand von 1922 bis 1991.
+BELLA|„... gerant alii, tu felix Austria nube“|„Kriege mögen andere führen, du, glückliches Österreich, heirate!“ – die Heiratspolitik der Habsburger.
+DEAL|New ...: Roosevelts Reformprogramm|Der New Deal sollte ab 1933 die Weltwirtschaftskrise überwinden.
+ZEN|Buddhismus der Samurai|Zen kam im 12./13. Jahrhundert aus China nach Japan.
+LOLA|... Montez, Geliebte Ludwigs I.|Die Affäre trug 1848 zur Abdankung des bayerischen Königs bei.
+REGAL|Königliches Hoheitsrecht, z. B. das Münz...|Regalien wie Zoll-, Münz- und Bergrecht brachten dem König Einnahmen.
+TEGEL|Berliner Flughafen, gebaut während der Luftbrücke|Er wurde 1948 in nur 90 Tagen errichtet.
+MALI|Reich des legendär reichen Mansa Musa|Mansa Musa brachte bei seiner Pilgerreise 1324 so viel Gold nach Kairo, dass der Goldpreis fiel.
+EARL|Englischer Grafentitel|Er entspricht dem nordischen „Jarl“.
+LOK|„Adler“: erste Dampf... in Deutschland|Sie fuhr 1835 von Nürnberg nach Fürth.
+PORTA|... Nigra: römisches Stadttor in Trier|Das Tor entstand um 170 n. Chr.
+ASCHE|„Staub bist du, und zum Staube kehrst du zurück“: Kreuz aus ...|Am Aschermittwoch zeichnet der Priester ein Aschekreuz auf die Stirn.
+TELL|Wilhelm ..., Schweizer Nationalheld|Schiller schrieb 1804 das Drama über ihn.
+AFFE|...nprozess 1925 in Tennessee|Lehrer John Scopes wurde verurteilt, weil er Darwins Evolutionslehre unterrichtet hatte.
+HAAG|Den ...: Friedenskonferenzen 1899 und 1907|Dort wurde die Haager Landkriegsordnung beschlossen.
+TABU|Wort, das Cook aus Polynesien mitbrachte|James Cook beschrieb 1777 das Tabu-Prinzip auf Tonga.
+ESA|Europäische Weltraumorganisation (Abk.)|Die ESA wurde 1975 gegründet.
+RES|„... publica“: Sache des Volkes|Daraus wurde das Wort Republik.
+ETH|Hochschule in Zürich, an der Einstein studierte (Abk.)|Albert Einstein schloss 1900 an der ETH sein Studium ab.
+TEL|... Aviv, 1909 gegründet|Tel Aviv entstand als jüdisches Viertel neben Jaffa.
+LSD|1943 von Albert Hofmann entdeckte Droge (Abk.)|Am 19. April 1943 unternahm Hofmann den ersten bewussten LSD-Trip, den „Fahrradtag“.
+SPA|Belgischer Kurort, deutsches Hauptquartier 1918|Wilhelm II. erfuhr in Spa von seiner Absetzung.
+USA|1776 für unabhängig erklärt (Abk.)|Die Unabhängigkeitserklärung wurde am 4. Juli 1776 verabschiedet.
+AVE|„... Caesar, morituri te salutant“|„Sei gegrüßt, Kaiser, die Todgeweihten grüßen dich“ – überliefert von Sueton.
+EZB|1998 in Frankfurt gegründete Bank (Abk.)|Die Europäische Zentralbank wacht über den Euro.
+BND|Deutscher Auslandsgeheimdienst (Abk.)|Der Bundesnachrichtendienst ging 1956 aus der Organisation Gehlen hervor.
+DEI|„... gratia“: von Gottes Gnaden|Mit dieser Formel begründeten Könige ihr Gottesgnadentum.
+DAN|Stamm Israels im Norden|Dan galt als nördlichster Punkt Israels: „von Dan bis Beerscheba“.
+FBI|US-Bundespolizei, 1908 gegründet (Abk.)|J. Edgar Hoover leitete das FBI 48 Jahre lang.
+RIP|„Requiescat in pace“ (Abk.)|„Er/sie ruhe in Frieden“ steht auf vielen Grabsteinen.
+HAM|Sohn Noahs|Ham, Sem und Jafet galten als Stammväter der Völker.
+IBN|... Battuta, großer arabischer Reisender|Er bereiste im 14. Jahrhundert rund 120.000 Kilometer.
+ELF|-|-
+NETTO|-|-
+TREUE|-|-

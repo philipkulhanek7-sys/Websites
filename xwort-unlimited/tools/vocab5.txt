@@ -1,0 +1,132 @@
+ENTE|Zeitungs...: Falschmeldung|Der Begriff ist seit dem 19. Jahrhundert belegt; die „Hitler-Tagebücher“ waren eine berühmte Ente.
+IRENE|Byzantinische Kaiserin, die 797 allein regierte|Weil auf dem Thron in Konstantinopel „nur“ eine Frau saß, sah der Papst 800 den Kaiserthron als frei an.
+ANITA|Garibaldis kämpfende Ehefrau|Anita Garibaldi kämpfte in Südamerika und Italien an seiner Seite und starb 1849 auf der Flucht.
+AARAU|Erste Hauptstadt der Helvetischen Republik 1798|Unter französischem Einfluss wurde die Schweiz kurzzeitig ein Einheitsstaat mit Aarau als Hauptstadt.
+ELISA|... Bonaparte, Großherzogin der Toskana|Napoleons Schwester regierte ab 1809 die Toskana.
+IDEEN|Platons Lehre von den ewigen Urbildern|Laut Platons Ideenlehre sind die Dinge der Welt nur Abbilder ewiger Ideen.
+IDEAL|„...ismus“: Philosophie Kants, Fichtes, Hegels|Der Deutsche Idealismus prägte das Denken um 1800.
+OMEGA|„Ich bin das Alpha und das ...“|Christus nennt sich so in der Offenbarung des Johannes – Anfang und Ende.
+ALPHA|„Ich bin das ... und das Omega“|Alpha und Omega sind erster und letzter Buchstabe des griechischen Alphabets.
+ASTRA|„Per aspera ad ...“|„Über raue Pfade zu den Sternen“ – ein lateinisches Sprichwort.
+ALOIS|... Alzheimer beschrieb 1906 die Demenzkrankheit|Der Psychiater stellte den Fall Auguste Deter in Tübingen vor.
+AMEN|„So sei es“: Schlusswort im Gebet|Das Wort stammt aus dem Hebräischen.
+ULTRA|Britischer Deckname für entschlüsselte Enigma-Funksprüche|In Bletchley Park brachen Alan Turing und andere die deutsche Verschlüsselung.
+HENRI|... IV.: „Paris ist eine Messe wert“|Henri IV. trat 1593 zum Katholizismus über und erließ 1598 das Edikt von Nantes.
+ALLAH|Arabisch „Gott“|Der Name wird auch von arabischen Christen benutzt.
+ERLAG|Caesar ... 44 v. Chr. 23 Dolchstichen|Der Arzt Antistius stellte fest, dass nur ein Stich tödlich war – eine der ersten Obduktionen.
+ASSAD|Syrische Herrscherfamilie seit 1971|Hafiz al-Assad regierte bis 2000, danach sein Sohn Baschar bis 2024.
+ELSE|... Lasker-Schüler, expressionistische Dichterin|Sie floh 1933 in die Schweiz und starb 1945 in Jerusalem.
+UNTER|„... den Linden“: Berlins Prachtstraße|An ihr stehen Staatsoper, Humboldt-Universität und Zeughaus.
+AGNES|... Bernauer, 1435 in der Donau ertränkt|Herzog Ernst ließ die Geliebte seines Sohnes Albrecht als Hexe ertränken.
+UNSER|Vater ...: Gebet, das Jesus lehrte|Das Vaterunser steht in der Bergpredigt im Matthäusevangelium.
+TEST|Atom... auf dem Bikini-Atoll|Die USA zündeten dort 1946 bis 1958 insgesamt 23 Kernwaffen.
+CLARA|... Zetkin, Initiatorin des Frauentags|Sie schlug 1910 den Internationalen Frauentag vor.
+ASIEN|Größter Kontinent, Ziel Alexanders des Großen|Alexander zog bis an den Indus.
+ULMER|... Münster: höchster Kirchturm der Welt|Der Turm wurde erst 1890 vollendet und ist 161,5 m hoch.
+SARAH|... Bernhardt, „die Göttliche“|Die französische Schauspielerin war um 1900 ein Weltstar.
+LENA|Sibirischer Fluss, Ort eines Massakers 1912|Beim Streik in den Goldminen an der Lena erschoss Militär Hunderte Arbeiter.
+ENGE|Thermopylen: ... zwischen Gebirge und Meer|Der Name bedeutet „heiße Tore“; hier hielten 300 Spartaner die Perser auf.
+IRREN|„... ist menschlich“|„Errare humanum est“ – ein Satz, der auf Seneca zurückgeführt wird.
+NIELS|... Bohr, Vater des Atommodells|Der Däne erhielt 1922 den Nobelpreis für Physik.
+SKALA|Richter-...: 1935 entwickelt|Charles Richter maß damit die Stärke von Erdbeben.
+EDEL|...weißpiraten: jugendlicher Widerstand|Die Jugendgruppen widersetzten sich der Hitlerjugend.
+YEN|Japanische Währung seit 1871|Die Meiji-Regierung führte ihn als Dezimalwährung ein.
+TESLA|Nikola ..., Pionier des Wechselstroms|Er lieferte sich mit Edison den „Stromkrieg“.
+EDITH|... Stein, 1942 in Auschwitz ermordet|Die Philosophin jüdischer Herkunft wurde Karmelitin und 1998 heiliggesprochen.
+ISAR|Fluss durch München|München wurde 1158 von Heinrich dem Löwen an der Isar gegründet.
+GEN|Mendel entdeckte die Regeln der Vererbung, ohne das Wort ... zu kennen|Gregor Mendel veröffentlichte seine Erbsenversuche 1866.
+HANAU|Geburtsstadt der Brüder Grimm|Jacob Grimm wurde 1785, Wilhelm 1786 in Hanau geboren.
+LAURA|Petrarcas unerreichbare Geliebte|Petrarca besang sie im „Canzoniere“.
+ELSA|... von Brabant, Braut des Lohengrin|„Nie sollst du mich befragen“ – Wagners Oper wurde 1850 in Weimar uraufgeführt.
+ENGER|Westfälischer Ort, Grabstätte Widukinds|Der Sachsenherzog Widukind ließ sich 785 taufen.
+ARTEN|„Über die Entstehung der ...“ (1859)|Darwins Buch begründete die Evolutionstheorie.
+XAVER|Franz ..., Jesuit und Asienmissionar|Er missionierte ab 1542 in Indien und Japan.
+ESSIG|Am Kreuz reichte man Jesus einen Schwamm mit ...|Der saure Wein war das Getränk der römischen Soldaten.
+STAB|General...: Moltkes „Gehirn der Armee“|Der preußische Generalstab wurde zum Vorbild für viele Armeen.
+URNE|...nfelderkultur der Bronzezeit|Die Toten wurden verbrannt und in Urnen beigesetzt (ca. 1300–800 v. Chr.).
+EVANS|Arthur ..., Ausgräber von Knossos|Er grub ab 1900 auf Kreta und prägte den Begriff „minoisch“.
+GAS|Gift... wurde 1915 bei Ypern eingesetzt|Fritz Haber leitete das deutsche Gaswaffenprogramm.
+EHREN|...legion: Napoleons Orden von 1802|Die Légion d'honneur ist bis heute Frankreichs höchste Auszeichnung.
+OMAR|Zweiter Kalif, Eroberer Jerusalems 638|Unter Omar breitete sich der Islam nach Syrien, Ägypten und Persien aus.
+AKTE|Habeas-Corpus-... 1679|Das englische Gesetz schützte vor willkürlicher Verhaftung.
+AHMED|Sultan ... I., Bauherr der Blauen Moschee|Die Moschee in Istanbul wurde 1616 fertiggestellt.
+HEIDI|Romanfigur von Johanna Spyri (1880)|Das Buch wurde zu einem der meistübersetzten Kinderbücher.
+ANTON|... von Webern, Komponist der Zwölftonmusik|Er wurde 1945 versehentlich von einem US-Soldaten erschossen.
+RAD|Laufmaschine 1817: Vorläufer des Fahr...s|Karl Drais erfand sie nach dem „Jahr ohne Sommer“, als Pferde knapp waren.
+RATIO|Vernunft, Leitbegriff der Aufklärung|„Sapere aude!“ – habe Mut, dich deines Verstandes zu bedienen.
+DELTA|Nil...: Unterägypten|Ober- und Unterägypten wurden um 3000 v. Chr. geeint.
+NSDAP|Hitlers Partei (Abk.)|Die Nationalsozialistische Deutsche Arbeiterpartei ging 1920 aus der DAP hervor.
+ODER|Grenzfluss zu Polen seit 1945|Die Oder-Neiße-Grenze wurde 1990 endgültig anerkannt.
+ESSAY|Literarische Form, die Montaigne prägte|Montaignes „Essais“ erschienen ab 1580.
+SELIG|...sprechung: Vorstufe der Heiligsprechung|Die Kirche ehrt damit Verstorbene als Vorbilder im Glauben.
+EINIG|„... Vaterland“: Text der DDR-Hymne|Weil die Zeile „Deutschland, einig Vaterland“ lautete, wurde der Text ab 1970 nicht mehr gesungen.
+SKI|Nansen durchquerte 1888 Grönland auf ...ern|Fridtjof Nansens Expedition machte den Skisport populär.
+ELF|Die ... Schill'schen Offiziere, 1809 erschossen|Sie wurden nach Schills gescheitertem Aufstand in Wesel hingerichtet.
+RAAB|Schlacht bei ... 1809 in Ungarn|Eugène de Beauharnais besiegte dort die Österreicher.
+SAALE|Fluss bei Naumburg und Halle|Die Saale war im Frühmittelalter Grenze zwischen Franken und Slawen.
+IGEL|...stellung: Rundum-Verteidigung|Der Begriff wurde vor allem im Zweiten Weltkrieg gebraucht.
+HESS|Hitlers Stellvertreter, flog 1941 nach Schottland|Rudolf Heß starb 1987 als letzter Häftling im Spandauer Gefängnis.
+KENIA|Land des Mau-Mau-Aufstands|Kenia wurde 1963 von Großbritannien unabhängig.
+URAN|1789 von Klaproth entdecktes Element|Martin Heinrich Klaproth benannte es nach dem Planeten Uranus.
+GENIE|...zeit: anderer Name für Sturm und Drang|Das Originalgenie galt als Schöpfer aus eigener Kraft.
+OSKAR|... Schindler, Retter von 1200 Juden|Er wurde 1993 als „Gerechter unter den Völkern“ geehrt.
+AIDA|Verdi-Oper zur Eröffnung der Kairoer Oper 1871|Sie wurde nach der Eröffnung des Suezkanals in Auftrag gegeben.
+ERICH|... Honecker|Er war von 1971 bis 1989 Staats- und Parteichef der DDR.
+VERDI|Komponist des „Nabucco“, Symbol des Risorgimento|„Viva VERDI“ stand auch für „Vittorio Emanuele Re d'Italia“.
+APRIL|...thesen Lenins (1917)|Lenin forderte darin „Alle Macht den Sowjets“.
+ERGO|„Cogito, ... sum“|Descartes: „Ich denke, also bin ich.“
+URBAN|Papst ... II. rief 1095 zum Kreuzzug auf|In Clermont rief er: „Deus lo vult!“
+PIRAT|Klaus Störtebeker war einer|Der Anführer der Vitalienbrüder wurde 1401 in Hamburg hingerichtet.
+MARIE|... Antoinette, 1793 guillotiniert|Die Tochter Maria Theresias wurde Königin von Frankreich.
+METRO|Paris eröffnete sie 1900|Zur Weltausstellung fuhr die erste Linie.
+EMMA|Lady ... Hamilton, Geliebte Nelsons|Ihre Affäre mit dem Admiral war ein Skandal.
+KLEE|Paul ..., Bauhaus-Meister|Er lehrte von 1921 bis 1931 am Bauhaus.
+GLEIS|... 17 in Berlin-Grunewald: Mahnmal|Von hier wurden Zehntausende Juden deportiert.
+EIMER|Eimerkrieg 1325 zwischen Modena und Bologna|Die Modenesen raubten einen Holzeimer, der bis heute im Turm hängt.
+HASE|Dürers berühmtes Aquarell von 1502|Der „Feldhase“ liegt in der Albertina in Wien.
+PDS|Nachfolgepartei der SED (Abk.)|Die Partei des Demokratischen Sozialismus ging 2007 in der Linken auf.
+NORA|Ibsens Drama von 1879|„Nora oder Ein Puppenheim“ löste Debatten über Frauenrechte aus.
+IGOR|...lied: altrussisches Heldenepos|Es erzählt vom Feldzug des Fürsten Igor 1185.
+BEATE|... Klarsfeld ohrfeigte 1968 Kanzler Kiesinger|Sie protestierte gegen seine NS-Vergangenheit.
+EMIL|„... und die Detektive“ (1929)|Erich Kästners Kinderroman spielt in Berlin.
+EGON|... Schiele, Wiener Expressionist|Er starb 1918 an der Spanischen Grippe.
+CLANS|Schottische ..., 1746 bei Culloden besiegt|Danach verboten die Briten Kilts und Dudelsäcke.
+MAAS|„Von der ... bis an die Memel“|Die Maas fließt durch Frankreich, Belgien und die Niederlande.
+HURRA|...-Patriotismus 1914|Viele zogen anfangs begeistert in den Krieg.
+ARCHE|Noahs Schiff|Ähnliche Flutsagen kennt schon das Gilgamesch-Epos.
+MALTA|Insel des Johanniterordens ab 1530|Die Ritter verteidigten Malta 1565 gegen die Osmanen.
+SALEM|Ort der Hexenprozesse 1692|In Massachusetts wurden 20 Menschen hingerichtet.
+AHNEN|...galerie: Bildnisse der Vorfahren im Schloss|Adelsfamilien zeigten so ihre lange Herkunft.
+VERSE|„Die satanischen ...“ (1988)|Für Salman Rushdie verhängte Khomeini 1989 eine Fatwa.
+LASER|1960 von Maiman gebaut|Theodore Maiman baute den ersten funktionierenden Laser.
+DRANG|„Sturm und ...“|Die Epoche ist nach einem Drama von Klinger (1776) benannt.
+LINSE|Esau verkaufte sein Erstgeburtsrecht für ein ...ngericht|Die Geschichte steht im 1. Buch Mose.
+PAULI|Wolfgang ..., Physiker des Ausschlussprinzips|Er erhielt 1945 den Nobelpreis.
+GERA|Residenz der Fürsten Reuß|Die Reußen nannten alle Söhne Heinrich.
+LOS|Athen bestimmte viele Beamte durch das ...|Das Losverfahren galt als besonders demokratisch.
+NIE|„... wieder Krieg“ (Käthe Kollwitz 1924)|Das Plakat entstand für den Mitteldeutschen Jugendtag.
+ALB|Schwäbische ..., Stammland der Staufer|Die Burg Hohenstaufen stand am Rand der Alb.
+MAL|Kains...|Gott zeichnete Kain, damit niemand ihn erschlage.
+ALLEE|Stalin-...: Ausgangspunkt des 17. Juni 1953|Bauarbeiter legten dort die Arbeit nieder.
+ADRIA|Meer, mit dem Venedig sich jährlich „vermählte“|Der Doge warf am Himmelfahrtstag einen Ring ins Meer.
+AGENT|Mata Hari war eine|Sie wurde 1917 in Frankreich als Spionin erschossen.
+IREN|Sie probten Ostern 1916 den Aufstand|Der Osteraufstand in Dublin wurde niedergeschlagen.
+ELENA|Rumänische Diktatorengattin, 1989 erschossen|Elena und Nicolae Ceaușescu wurden am 25. Dezember 1989 hingerichtet.
+INES|... de Castro, nach dem Tod gekrönt|Pedro I. von Portugal ließ seine ermordete Geliebte angeblich als Königin ehren.
+SENSE|Bauernkrieg: umgeschmiedet zur Waffe|Aufständische Bauern kämpften mit geradegestellten Sensen.
+REUE|Bußsakrament: ..., Beichte, Buße|Die mittelalterliche Kirche verlangte Reue als Voraussetzung der Vergebung.
+EIDE|Lehns...|Mit dem Lehnseid schwor der Vasall seinem Herrn Treue.
+ESSE|Schmiedefeuer|In der Esse wurde das Eisen erhitzt.
+TENNE|Dreschplatz in der Scheune|Auf der Tenne wurde Getreide mit Dreschflegeln gedroschen.
+NETTE|Fluss der Eifel bei Mayen|An der Nette liegt Schloss Bürresheim.
+ADELE|... Schopenhauer, Schwester des Philosophen|Die Schriftstellerin lebte im Goethe-Kreis in Weimar.
+EDLE|Stand der Freien im Frühmittelalter|Bei den Sachsen unterschied man Edlinge, Frilinge und Lasser.
+ALBEN|Germanische Naturgeister|Aus „Alb“ wurde der Albtraum.
+OBST|...garten: Klostergärten des Mittelalters|Mönche verbreiteten Apfel- und Birnensorten.
+LEISE|„... rieselt der Schnee“ (1895)|Eduard Ebel schrieb das Weihnachtslied.
+TREIDEL|-|-
+STEIG|-|-
+SAHNE|-|-
+ARTE|-|-
+ANNO2|-|-
+OSTSEE|-|-

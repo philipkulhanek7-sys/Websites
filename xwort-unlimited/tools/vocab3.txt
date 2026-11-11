@@ -1,0 +1,417 @@
+ARNO|Fluss durch Florenz und Pisa|Das Hochwasser des Arno 1966 beschädigte unzählige Kunstwerke in Florenz.
+EBRO|Grenzfluss im Vertrag mit Hasdrubal 226 v. Chr.|Rom und Karthago teilten Spanien am Ebro auf; Hannibal überschritt ihn 218 v. Chr.
+TAJO|Längster Fluss der Iberischen Halbinsel|Der Tajo mündet bei Lissabon in den Atlantik.
+LOIRE|Fluss der Königsschlösser|An der Loire liegen Chambord, Blois und Amboise.
+RHONE|Fluss, den Hannibal 218 v. Chr. mit Elefanten überquerte|Die Elefanten setzten auf Flößen über.
+AARE|Längster Fluss ganz in der Schweiz|Die Aare fließt durch Bern.
+INN|Grenzfluss bei Braunau|Hitler wurde 1889 in Braunau am Inn geboren.
+ENNS|Grenzfluss zwischen Ober- und Niederösterreich|1945 trafen sich an der Enns amerikanische und sowjetische Truppen.
+SAAR|Gebiet, über das 1935 und 1955 abgestimmt wurde|1957 wurde das Saarland Teil der Bundesrepublik.
+LAHN|Fluss durch Marburg und Limburg|An der Lahn liegt die älteste protestantische Universität: Marburg (1527).
+WESER|Fluss der Rattenfänger-Stadt Hameln|Die Sage vom Rattenfänger geht auf den Auszug von Kindern 1284 zurück.
+MOSEL|Fluss durch Trier|Ausonius beschrieb sie im 4. Jahrhundert im Gedicht „Mosella“.
+NAHE|Nebenfluss des Rheins bei Bingen|Bei Bingen gründete Hildegard ihr Kloster Rupertsberg.
+LEINE|Fluss durch Hannover|Hannover war ab 1714 in Personalunion mit Großbritannien verbunden.
+ALLER|Nebenfluss der Weser; in Verden 782 Blutgericht|In Verden an der Aller soll Karl der Große Tausende Sachsen hingerichtet haben.
+NEWA|Fluss von Sankt Petersburg|Alexander Newski siegte 1240 an der Newa über die Schweden.
+ARRAS|Stadt des Friedens von 1435|Im Frieden von Arras trennte sich Burgund von England.
+ARLES|Römische Stadt mit Arena in der Provence|Arles war im 4. Jh. eine Kaiserresidenz; van Gogh malte dort.
+NIMES|Stadt mit dem Pont du Gard in der Nähe|Nîmes hat eines der besterhaltenen römischen Amphitheater.
+REIMS|Krönungsstadt der französischen Könige|Jeanne d'Arc führte Karl VII. 1429 zur Krönung nach Reims.
+TOURS|Schlacht 732 gegen die Araber|Karl Martell stoppte bei Tours und Poitiers den arabischen Vormarsch.
+ROUEN|Hinrichtungsort der Jeanne d'Arc 1431|Die Engländer ließen sie dort als Ketzerin verbrennen.
+LILLE|Geburtsstadt de Gaulles|Charles de Gaulle wurde 1890 in Lille geboren.
+METZ|Lothringische Festungsstadt, 1870 belagert|Die französische Armee kapitulierte 1870 in Metz.
+NANCY|Stadt, vor der 1477 Karl der Kühne fiel|Mit seinem Tod zerfiel das burgundische Reich.
+SIENA|Toskanische Stadt des Palio|Das Pferderennen findet seit dem Mittelalter statt.
+PARMA|Herzogtum der Farnese|Nach 1815 regierte dort Napoleons Frau Marie-Louise.
+TURIN|Erste Hauptstadt des geeinten Italien (1861)|Turin war Sitz des Hauses Savoyen.
+PADUA|Stadt einer der ältesten Universitäten (1222)|Galilei lehrte dort 18 Jahre lang.
+LUCCA|Toskanische Stadt mit intakter Stadtmauer|Napoleon gab sie seiner Schwester Elisa.
+NEAPEL|-|-
+BOZEN|Stadt, in der heute Ötzi ausgestellt ist|Ötzi ist im Südtiroler Archäologiemuseum in Bozen zu sehen.
+LINZ|Stadt des Linzer Programms 1882|Das Programm deutschnationaler Österreicher entstand in Linz.
+GRAZ|Residenz der innerösterreichischen Habsburger|Kepler lehrte dort ab 1594.
+STEYR|Österreichische Stadt der Waffenfabrik|Josef Werndl baute dort Gewehre für die Armee.
+ARGOS|Eine der ältesten Städte der Peloponnes|Argos war in der Antike lange Rivalin Spartas.
+ELEA|Stadt der Philosophen Parmenides und Zenon|Die eleatische Schule lehrte, Bewegung sei Schein.
+MILET|Stadt des Thales|Das Markttor von Milet steht im Pergamonmuseum.
+SARDES|-|-
+RIGA|Hansestadt, gegründet 1201|Bischof Albert von Buxhoeveden gründete Riga.
+REVAL|Alter deutscher Name Tallinns|Reval war Mitglied der Hanse.
+NARVA|Schlacht 1700: Karl XII. besiegt Peter den Großen|Der junge Schwedenkönig siegte mit einem Bruchteil der Truppen.
+TILSIT|Frieden von 1807|Preußen verlor die Hälfte seines Gebiets; Königin Luise bat Napoleon vergeblich um Milde.
+MEMEL|Grenzfluss und Stadt im Lied der Deutschen|„Von der Maas bis an die Memel“ – die Stadt heißt heute Klaipėda.
+POSEN|Polnische Stadt, bis 1918 preußisch|Posen (Poznań) war Hauptstadt einer preußischen Provinz.
+THORN|Geburtsstadt des Kopernikus|Kopernikus wurde 1473 in Thorn (Toruń) geboren.
+EMDEN|Ostfriesische Stadt, Hafen der „Emder Calvinisten“|Emden galt im 16. Jahrhundert als „Genf des Nordens“.
+LEER|Ostfriesische Stadt an der Leda|Leer erhielt 1823 das Stadtrecht.
+NEUSS|Römisches Legionslager Novaesium|Neuss gehört zu den ältesten Städten Deutschlands.
+SOEST|Hansestadt, die 1444 eine Fehde gegen Köln führte|In der Soester Fehde löste sich Soest vom Kölner Erzbischof.
+SIEGEN|Geburtsstadt von Peter Paul Rubens|Rubens wurde 1577 in Siegen geboren.
+ALTONA|Bis 1864 dänische Nachbarstadt Hamburgs|1937 wurde Altona nach Hamburg eingemeindet.
+STADE|Hansestadt, später schwedisch|Nach 1648 war Stade Sitz der schwedischen Regierung für Bremen-Verden.
+TROER|Bewohner der Stadt des Priamos|Hektor war der größte Held der Troer.
+ILION|Griechischer Name Trojas|Daher stammt der Titel „Ilias“.
+RHEA|... Silvia, Mutter von Romulus und Remus|Die Vestalin wurde von Mars schwanger.
+REMUS|Zwillingsbruder des Romulus|Romulus erschlug ihn, als er über die Stadtmauer sprang.
+NUMA|Zweiter König Roms|Numa Pompilius gilt als Begründer der römischen Religion.
+ALBA|Herzog von ..., Statthalter in den Niederlanden|Sein „Blutrat“ ließ 1568 die Grafen Egmont und Hoorn hinrichten.
+EGMONT|-|-
+NESTOR|Ältester und weisester Grieche vor Troja|Daher heißt der Älteste eines Fachs „Nestor“.
+ARGO|Schiff des Jason|Mit der Argo holten die Argonauten das Goldene Vlies.
+ARION|Sänger, den ein Delfin rettete|Herodot erzählt die Sage.
+IRIS|Götterbotin des Regenbogens|Iris überbrachte die Botschaften der Hera.
+EOS|Griechische Göttin der Morgenröte|„Die rosenfingrige Eos“ heißt sie bei Homer.
+NIOBE|Mutter, deren Kinder Apollon und Artemis töteten|Sie versteinerte vor Trauer.
+SIRENE|-|-
+SKYLLA|-|-
+MAAT|Ägyptische Göttin der Weltordnung|Beim Totengericht wurde das Herz gegen Maats Feder gewogen.
+SETI|Pharao, Vater Ramses' II.|Sethos I. ließ den Tempel in Abydos mit der Königsliste bauen.
+TETI|Pharao der 6. Dynastie mit Pyramide in Sakkara|In seiner Pyramide stehen Pyramidentexte.
+MENES|Erster Pharao, Einiger Ägyptens|Menes (vielleicht Narmer) vereinte um 3000 v. Chr. Ober- und Unterägypten.
+NEITH|Ägyptische Kriegs- und Webergöttin aus Sais|Neith war Schutzgöttin der Stadt Sais.
+ANU|Sumerischer Himmelsgott|Anu stand an der Spitze des mesopotamischen Pantheons.
+ENKI|Sumerischer Gott der Weisheit und des Wassers|Enki warnte in der Flutsage die Menschen.
+ENLIL|Sumerischer Gott des Windes aus Nippur|Enlil schickte in der Sage die Sintflut.
+ADAM|Erster Mensch der Bibel|„Adam“ bedeutet hebräisch „Mensch“.
+EVA|Erste Frau der Bibel|Eva gilt als „Mutter aller Lebenden“.
+ABEL|Von seinem Bruder erschlagen|Kain tötete Abel aus Neid – der erste Mord der Bibel.
+KAIN|Erster Mörder der Bibel|Gott zeichnete ihn mit dem Kainsmal.
+NOAH|Erbauer der Arche|Die Arche landete auf dem Ararat.
+SEM|Sohn Noahs, Stammvater der „Semiten“|Der Begriff „Semiten“ wurde 1781 geprägt.
+LOT|Neffe Abrahams, dessen Frau zur Salzsäule wurde|Sie drehte sich nach Sodom um.
+ESAU|Verkaufte sein Erstgeburtsrecht für ein Linsengericht|Jakob übervorteilte seinen Bruder.
+LEA|Erste Frau Jakobs|Laban gab Jakob erst Lea statt Rahel.
+SARA|Frau Abrahams, Mutter Isaaks|Sie gebar Isaak der Bibel nach mit 90 Jahren.
+LEVI|Stamm Israels, Priestergeschlecht|Die Leviten dienten am Tempel.
+AARON|Bruder des Mose, erster Hohepriester|Aaron goss das Goldene Kalb.
+ESRA|Schriftgelehrter der Heimkehr aus Babylon|Esra erneuerte im 5. Jh. v. Chr. das Gesetz in Jerusalem.
+ESTER|Jüdische Königin am Perserhof|Das Purimfest erinnert an ihre Rettung der Juden.
+ELIAS|Prophet, der im Feuerwagen auffuhr|Er kämpfte gegen die Baalspriester.
+AMOS|Prophet der sozialen Gerechtigkeit|Amos war Viehzüchter aus Tekoa.
+RUTH|Moabiterin, Urgroßmutter Davids|„Wo du hingehst, da will ich auch hingehen.“
+SALOME|-|-
+NAIN|Ort, an dem Jesus einen Jüngling erweckte|Die Geschichte steht im Lukasevangelium.
+ARARAT|-|-
+TEJA|Letzter König der Ostgoten|Teja fiel 552 am Vesuv gegen den Byzantiner Narses.
+TOTILA|-|-
+OLAF|Norwegischer König und Heiliger|Olaf II. fiel 1030 bei Stiklestad.
+SVEN|Dänischer König „Gabelbart“|Sven eroberte 1013 England.
+HAKON|-|-
+OSKAR|-|-
+RILKE|Dichter des „Cornet“|Rainer Maria Rilke wurde 1875 in Prag geboren.
+BENN|Arzt und Dichter der „Morgue“|Gottfried Benn veröffentlichte 1912 seine Gedichte „Morgue“.
+HESSE|Autor des „Steppenwolf“|Hermann Hesse erhielt 1946 den Literaturnobelpreis.
+HEINE|„Denk ich an Deutschland in der Nacht ...“|Heinrich Heine lebte ab 1831 im Pariser Exil.
+TIECK|Romantiker, Shakespeare-Übersetzer|Ludwig Tieck vollendete die Schlegel-Tieck-Übersetzung.
+ARNIM|Achim von ..., „Des Knaben Wunderhorn“|Er gab die Liedsammlung mit Clemens Brentano heraus.
+ROTH|Joseph ..., Autor des „Radetzkymarsch“|Der Roman beschreibt den Untergang der Habsburgermonarchie.
+TASSO|Dichter des „Befreiten Jerusalem“|Goethe widmete Torquato Tasso ein Drama.
+ELIOT|T. S. ..., Dichter von „The Waste Land“|Das Gedicht erschien 1922.
+NOBEL|Erfinder des Dynamits|Alfred Nobel stiftete mit seinem Vermögen die Nobelpreise.
+OTTE|-|-
+ERNST|... August, König von Hannover, Gegner der „Göttinger Sieben“|Er entließ 1837 sieben protestierende Professoren, darunter die Brüder Grimm.
+LOTHAR|Enkel Karls des Großen, Namensgeber Lothringens|Im Vertrag von Verdun 843 erhielt er das Mittelreich.
+ANNE|... Boleyn, 1536 hingerichtet|Die zweite Frau Heinrichs VIII. war Mutter Elisabeths I.
+MARIA|... Theresia|Sie regierte die Habsburgermonarchie ab 1740.
+RENTE|1889 von Bismarck eingeführte Versicherung|Die Alters- und Invaliditätsversicherung zahlte ab 70 Jahren.
+STEUER|„Kopf...“ im Peasants' Revolt 1381|Eine Kopfsteuer löste den englischen Bauernaufstand aus.
+ERNTE|Missernte von 1816: „Jahr ohne Sommer“|Der Ausbruch des Tambora 1815 verursachte Hungersnöte in Europa.
+NOT|„... kennt kein Gebot“ (Bethmann Hollweg 1914)|Der Reichskanzler rechtfertigte so den Einmarsch ins neutrale Belgien.
+ARMUT|Gelübde der Bettelorden|Franz von Assisi lebte in radikaler Armut.
+ELEND|Ursprünglich: „anderes Land“, Verbannung|Das Wort kommt von ahd. „elilenti“, Ausland.
+PEST|Seuche von 1347 bis 1351|Ratten und Flöhe übertrugen sie aus Asien nach Europa.
+LEPRA|Krankheit der Aussätzigen|Leprakranke lebten im Mittelalter in Siechenhäusern vor der Stadt.
+STREIK|Großer ... der Ruhrbergleute 1889|90.000 Bergleute legten die Arbeit nieder.
+LOHN|„Eherne ...gesetz“ (Lassalle)|Lassalle meinte, Löhne blieben stets am Existenzminimum.
+ARBEIT|„... macht frei“ – zynische Lagerinschrift|Die Nazis brachten sie an den Toren mehrerer KZ an.
+EXIL|Lebte Heine ab 1831|Viele Schriftsteller gingen nach 1933 ins Exil.
+ASYL|Schutz an heiliger Stätte|Im Mittelalter boten Kirchen Verfolgten Kirchenasyl.
+ACHSE|Bündnis Berlin–Rom (1936)|Mussolini prägte das Wort von der „Achse“.
+ENTENTE|-|-
+RAETE|Arbeiter- und Soldaten... 1918|In der Novemberrevolution übernahmen Räte vielerorts die Macht.
+ETAT|Staatshaushalt (frz.)|Der Haushalt des Kaiserreichs musste vom Reichstag bewilligt werden.
+ELITE|-|-
+TERROR|„Schreckensherrschaft“ der Jakobiner 1793/94|Zehntausende wurden hingerichtet.
+TRESOR|-|-
+ATRIUM|Zentraler Raum des römischen Hauses|Im Atrium standen die Ahnenbilder.
+AEDIL|Römischer Beamter für Märkte und Spiele|Ädilen ließen auf eigene Kosten Spiele ausrichten, um Wähler zu gewinnen.
+ROSTRA|Rednertribüne auf dem Forum|Sie war mit Schiffsschnäbeln (rostra) erbeuteter Schiffe geschmückt.
+LIKTOR|Amtsdiener mit Rutenbündel|Die Fasces der Liktoren gaben später dem Faschismus den Namen.
+THERME|Römisches Badehaus|Die Caracalla-Thermen fassten über 1500 Badende.
+STOA|Philosophenschule, benannt nach einer Säulenhalle|Zenon lehrte in Athen in der „bunten Halle“.
+AGORA|Markt- und Versammlungsplatz Athens|Sokrates diskutierte auf der Agora.
+ODEON|Überdachtes antikes Musiktheater|Das Odeion des Perikles stand am Fuß der Akropolis.
+POLIS|Griechischer Stadtstaat|Athen und Sparta waren die bekanntesten Poleis.
+DEMOS|Griechisch „Volk“|Daher „Demokratie“: Herrschaft des Volkes.
+ARCHON|Höchster Beamter Athens|Nach dem obersten Archon wurde das Jahr benannt.
+TYRANN|-|-
+HELOT|Staatssklave in Sparta|Die Heloten mussten für die Spartiaten das Land bestellen.
+HOPLIT|-|-
+STADION|-|-
+DISKUS|-|-
+SPEER2|-|-
+ATHLET|-|-
+OLYMP|Wohnsitz der griechischen Götter|Der Olymp ist mit 2918 m Griechenlands höchster Berg.
+OASE|Siwa: ... des Amun-Orakels|Alexander befragte 331 v. Chr. dort das Orakel.
+INSEL|Napoleon starb 1821 auf einer|Er starb auf St. Helena im Südatlantik.
+ATOLL|Bikini: ... der US-Atomtests|Ab 1946 testeten die USA dort Atombomben.
+EISEN2|-|-
+NEST|-|-
+TREUE2|-|-
+ANSTAND|-|-
+STIL|-|-
+LESEN|... und Schreiben konnten im Frühmittelalter fast nur Geistliche|Selbst Karl der Große lernte das Schreiben spät und mühsam.
+REDEN|„Reden an die deutsche Nation“ (Fichte 1808)|Fichte hielt sie im französisch besetzten Berlin.
+ERBEN|Was Nachkommen tun; „Salisches Gesetz“ schloss Frauen davon aus|Die Lex Salica regelte im Frankenreich das Erbrecht.
+RATEN|Zahlweise der Reparationen|Deutschland zahlte die letzte Rate für Schulden aus dem Versailler Vertrag erst 2010.
+REITER|„Der Bamberger ...“|Die Steinfigur im Bamberger Dom entstand um 1230.
+STREIT|Investitur...|Kaiser und Papst stritten von 1076 bis 1122 um die Einsetzung der Bischöfe.
+SEELE|„Seelgerät“: Stiftung für das ...nheil|Fromme Stiftungen sollten die Zeit im Fegefeuer verkürzen.
+NARR|Hofnarr; „Das ...enschiff“ von Sebastian Brant|Brants Satire erschien 1494 in Basel.
+TOREN|-|-
+EINS|-|-
+RAST|-|-
+ROST|Grillrost: Werkzeug des Märtyrers Laurentius|Der heilige Laurentius wurde 258 auf einem Rost zu Tode gemartert.
+ASTER|-|-
+ANTON|-|-
+ERIN|Poetischer Name Irlands|„Erin“ kommt vom irischen „Éire“.
+ALBION|-|-
+ROMA|Göttin, Personifikation der Stadt Rom|Augustus ließ Tempel für Roma und sich selbst errichten.
+LATEIN|-|-
+ROMANE|-|-
+TONNE|-|-
+ANTE|-|-
+NERONE|-|-
+SENATE|-|-
+STERNE|-|-
+TENNE|Dreschplatz in der Scheune|Auf der Tenne wurde das Getreide mit dem Dreschflegel gedroschen.
+ESSE|Schmiedefeuer|In der Esse wurde das Eisen erhitzt.
+AMBOSS|-|-
+SENSE2|-|-
+STALL|„Stall von Bethlehem“|Laut Lukas wurde Jesus in eine Krippe gelegt.
+KRIPPE|-|-
+STERN2|-|-
+TEMPEL2|-|-
+ALTARE|-|-
+RELIQUIE|-|-
+ORDAL|Gottesurteil|Bei der Feuer- oder Wasserprobe sollte Gott die Unschuld zeigen.
+EIDE|Schwüre|Der Lehnseid band den Vasallen an den Herrn.
+TREUE3|-|-
+ANNALEN|-|-
+URKUNDE|-|-
+SIEGEL|Abdruck, mit dem Urkunden beglaubigt wurden|Die Goldene Bulle von 1356 erhielt ihren Namen von ihrem goldenen Siegel.
+BULLE|Goldene ... von 1356|Sie regelte die Königswahl durch sieben Kurfürsten.
+NOTAR|-|-
+TITEL|-|-
+ERLASS|-|-
+ENTSATZ|-|-
+WIEN|1529 und 1683 von den Osmanen belagert|1683 rettete das Entsatzheer unter Jan Sobieski die Stadt.
+PARIS|1871 Schauplatz der Kommune|Die Pariser Kommune wurde in der „Blutigen Woche“ niedergeschlagen.
+LONDON|-|-
+ROMAN2|-|-
+OSLO|Früher Christiania|Die Stadt hieß bis 1925 Kristiania.
+LIMA|Von Pizarro 1535 gegründete Stadt|Lima war Hauptstadt des Vizekönigreichs Peru.
+KAIRO|Hauptstadt der Fatimiden, gegründet 969|Die Fatimiden gründeten Kairo als neue Residenz.
+ROMAE|-|-
+TOKIO|Früher Edo|1868 wurde die Stadt zur kaiserlichen Hauptstadt.
+DELHI|Hauptstadt des Sultanats und der Moguln|1911 verlegten die Briten ihre Hauptstadt von Kalkutta nach Delhi.
+MEDINA|-|-
+TARENT|Spartanische Kolonie in Süditalien|Pyrrhus kam Tarent gegen Rom zu Hilfe.
+ENNA|Sizilianische Stadt der Sklavenaufstände|Der erste sizilianische Sklavenkrieg begann um 136 v. Chr. in Enna.
+ASTI|Piemontesische Stadt, Heimat Alfieris|Der Dichter Vittorio Alfieri wurde 1749 in Asti geboren.
+ESTE|Fürstengeschlecht von Ferrara|Die Este förderten Dichter wie Ariost und Tasso.
+SAVOYEN|-|-
+NASSAU|-|-
+ORANIEN|-|-
+ASTA|-|-
+TIARA|Dreifache Krone des Papstes|Paul VI. legte sie 1964 ab.
+STOLA|Gewand der vornehmen Römerin|Die Stola war das Kleid der verheirateten Frau.
+TUNIKA|-|-
+SANDALE|-|-
+ROBE|-|-
+TALAR|Langes Amtsgewand von Geistlichen und Richtern|Der Talar kommt von lat. „talaris“, bis zu den Knöcheln.
+ORNAT|Feierliche Amtstracht|Der Krönungsornat gehört zu den Reichskleinodien.
+ZEPTER|-|-
+SZEPTER|-|-
+THRON|„Pfauen...“ der Moguln|Nadir Schah raubte ihn 1739 aus Delhi.
+SAEBEL|-|-
+DEGEN|-|-
+SCHILD|-|-
+PANZER|-|-
+LANZEN|-|-
+TANK|Englischer Name des ersten Panzers 1916|Das Codewort „Tank“ sollte die neue Waffe tarnen.
+MINE|-|-
+RAKETE|-|-
+ARMEEN|-|-
+TRUPPE|-|-
+STAB|-|-
+GARDE|„Die ... stirbt, aber sie ergibt sich nicht!“ (Waterloo)|Der Satz wird General Cambronne zugeschrieben.
+ELITEN|-|-
+REGIMENT|-|-
+SOLDAT|-|-
+MATROSE|-|-
+ADMIRAL|-|-
+KAPER|...brief: staatliche Lizenz für Piraten|Freibeuter wie Francis Drake segelten mit Kaperbriefen.
+REEDE|-|-
+TAKEL|-|-
+MAST|-|-
+RUDER|Antrieb der Galeere|Galeerensträflinge ruderten bis ins 18. Jahrhundert.
+NAVE|-|-
+SEIL|-|-
+ANKERN|-|-
+INSELN|-|-
+TRESEN|-|-
+ESTE2|-|-
+RANA|-|-
+ARTE|-|-
+TERRA|... incognita: unbekanntes Land auf alten Karten|Antike und mittelalterliche Karten markierten so Unerforschtes.
+ARS|„... longa, vita brevis“|Die Kunst ist lang, das Leben kurz – Hippokrates.
+LEX|Lateinisch „Gesetz“|Die „Lex Salica“ war das Recht der salischen Franken.
+REX|Lateinisch „König“|„Rex Romanorum“ war der Titel des gewählten deutschen Königs.
+PAX|... Romana|Der lange Frieden im Römischen Reich ab Augustus.
+NOX|-|-
+ERAT|„Quod ... demonstrandum“|„Was zu beweisen war“ – Formel nach Euklid.
+ESSE|-|-
+ORA|„... et labora“|Bete und arbeite: Leitspruch der Benediktiner.
+ORARE|-|-
+ALEA|„... iacta est“|Caesar soll es am Rubikon 49 v. Chr. gesagt haben.
+IRA|-|-
+VENI|„..., vidi, vici“|So meldete Caesar 47 v. Chr. den Sieg bei Zela.
+VIDI|„Veni, ..., vici“|Caesar über seinen schnellen Sieg gegen Pharnakes.
+VICI|„Veni, vidi, ...“|„Ich kam, sah und siegte.“
+ROSA2|-|-
+ARA|Lateinisch „Altar“|Die Ara Pacis feiert den Frieden des Augustus.
+ARAE|-|-
+SENATUS|-|-
+NERONIS|-|-
+TERRAE|-|-
+ANNO|... Domini: im Jahr des Herrn|Die Zählung nach Christi Geburt geht auf Dionysius Exiguus (525) zurück.
+ANNI|-|-
+ANNOS|-|-
+ANNUS|... horribilis: schreckliches Jahr|Elisabeth II. nannte 1992 so.
+ANTE|... Christum natum|„Vor Christi Geburt“.
+POST|-|-
+NOTA|... bene|„Merke wohl!“
+ITER|Lateinisch „Weg, Marsch“|Römische Legionen legten pro Tag etwa 30 km zurück.
+ITA|-|-
+ETSI|-|-
+NISI|-|-
+STATUS|... quo|„Der bestehende Zustand“.
+TOTAL|„Wollt ihr den ...en Krieg?“ (1943)|Goebbels' Sportpalastrede vom 18. Februar 1943.
+SIRE|Anrede eines Königs|Französische Könige wurden mit „Sire“ angesprochen.
+MADAME|-|-
+DAUPHIN|-|-
+INFANT|-|-
+INFANTA|-|-
+ZARIN|Titel Katharinas der Großen|Katharina II. regierte Russland von 1762 bis 1796.
+SULTAN|-|-
+EMIRE|-|-
+SCHEICH|-|-
+NEGUS|Kaiser von Äthiopien|Haile Selassie war der letzte Negus.
+INKAS|-|-
+RANI|Indische Fürstin|Die Rani von Jhansi kämpfte 1857 gegen die Briten.
+RAJA|Indischer Fürstentitel|Aus „Raja“ wurde „Maharadscha“ (großer König).
+TENNO|Titel des japanischen Kaisers|Hirohito verkündete 1945 im Radio die Kapitulation.
+DAIMYO|-|-
+RONIN|Herrenloser Samurai|Die 47 Ronin rächten 1703 ihren Herrn.
+NINJA|-|-
+SEPPUKU|-|-
+SAMURAI|-|-
+KATANA|-|-
+NARA2|-|-
+OSAKA|Burgstadt, 1615 von Tokugawa erobert|Mit dem Fall Osakas sicherten die Tokugawa ihre Macht.
+SEOUL|-|-
+TIBET|1950 von China besetztes Hochland|Der Dalai Lama floh 1959 nach Indien.
+NEPAL|Heimat der Gurkha-Soldaten|Gurkhas dienen seit 1815 in der britischen Armee.
+LASA|-|-
+LHASA|Sitz des Dalai Lama im Potala|Der Potala-Palast wurde im 17. Jahrhundert erbaut.
+INDIEN|-|-
+CEYLON|-|-
+GOA|Portugiesische Kolonie in Indien bis 1961|Indien annektierte Goa 1961.
+ADEN|Britischer Hafen am Roten Meer bis 1967|Aden war wichtige Kohlestation auf dem Weg nach Indien.
+OMAN|Sultanat, Herr über Sansibar|Sultan Said verlegte 1840 seinen Sitz nach Sansibar.
+SANAA|-|-
+SABA|Königin von ..., Besucherin Salomos|Das Reich Saba lag im heutigen Jemen.
+PETRA|Felsenstadt der Nabatäer|Petra in Jordanien wurde 1812 von Burckhardt wiederentdeckt.
+TYRUS|-|-
+ANTIOCHIA|-|-
+EDESSA|Erster Kreuzfahrerstaat (1098)|Sein Fall 1144 löste den Zweiten Kreuzzug aus.
+NIZZA|Bis 1860 savoyisch|Nizza fiel 1860 an Frankreich.
+ELSASS|-|-
+ALSACE|-|-
+TIROL|Land Andreas Hofers|Hofer führte 1809 den Aufstand gegen Bayern und Frankreich.
+SALZBURG|-|-
+STEIER|-|-
+KRAIN|Historisches Herzogtum im heutigen Slowenien|Krain gehörte bis 1918 zu Österreich.
+ISTRIEN|-|-
+DALMATIEN|-|-
+BOSNIEN|-|-
+SERBIEN|-|-
+ATTILA|-|-
+ARIANER|-|-
+STILICHO|-|-
+AETIUS|Römischer Heermeister, Sieger über Attila 451|Aetius schlug die Hunnen auf den Katalaunischen Feldern.
+RICIMER|-|-
+ALARICH|-|-
+ODOAKER|-|-
+TEOD|-|-
+SENECA2|-|-
+STATIUS|-|-
+NERONE2|-|-
+SALIER|Kaiserdynastie von 1024 bis 1125|Die Salier ließen den Dom zu Speyer bauen.
+STAUFER|-|-
+WELFEN|-|-
+STERNEN|-|-
+OTTONEN|-|-
+TRAIN|-|-
+LISTEN|-|-
+LASTEN|-|-
+NARREN|-|-
+ARTEN|-|-
+TRANS|-|-
+ROSTE|-|-
+SORTE|-|-
+TORTE|-|-
+ORTEN|-|-
+NOTEN2|-|-
+TENOR|Hohe Männerstimme; Caruso war einer|Enrico Caruso machte 1902 eine der ersten Schallplatten.
+SOPRAN|-|-
+ALT2|-|-
+ARIEN|-|-
+OPERN|-|-
+NONNEN|-|-
+STOLLEN|Weihnachtsgebäck aus Dresden, seit 1474 belegt|Der Dresdner Stollen wird 1474 erstmals erwähnt.
+ERZE|-|-
+SOLE|Salzwasser der Salinen|Aus Sole wurde in Lüneburg das Salz der Hanse gesiedet.
+SALINE|-|-
+SIEDE|-|-
+STEIN2|-|-
+TONNEN|-|-
+ROSE2|-|-
+LOSE|-|-
+LOS|-|-
+OSTERN|-|-
+ASTERN|-|-
+ESTEN|Volk im Baltikum, 1918 unabhängig|Estland erklärte am 24. Februar 1918 die Unabhängigkeit.
+LETTEN|Baltisches Volk um Riga|Lettland wurde 1918 und erneut 1991 unabhängig.
+SERBEN|-|-
+SLAWEN|-|-
+SORBEN|Slawisches Volk in der Lausitz|Die Sorben sind eine anerkannte nationale Minderheit in Deutschland.
+RATTEN|Ihre Flöhe übertrugen die Pest|Der Rattenfloh übertrug den Pesterreger Yersinia pestis.
+OTTER|-|-
+STAR|-|-
+ROTOR|-|-
+RADAR|Ortungstechnik, im Zweiten Weltkrieg entscheidend|Britische Radarketten halfen 1940 in der Luftschlacht um England.
+ENIGMA|-|-
+TURING|-|-
+CODE|-|-
+SONAR|-|-
+NASA|US-Raumfahrtbehörde, 1958 gegründet|Sie entstand als Antwort auf den Sputnik-Schock.
+APOLLO|-|-
+SATURN|-|-
+MIR|Russische Raumstation (1986–2001)|„Mir“ bedeutet Frieden und Welt.
+ISS|Internationale Raumstation (Abk.)|Seit 2000 ist die ISS dauerhaft bewohnt.
+LAIKA|Hündin im All (1957)|Laika umkreiste in Sputnik 2 als erstes Lebewesen die Erde.
+ERDO|-|-
