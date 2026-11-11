@@ -3,7 +3,7 @@ name: Website veröffentlichen
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/xwort-website-no-cooldown-l844fc]
   workflow_dispatch:
 
 permissions:

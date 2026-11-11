@@ -34,7 +34,7 @@ Mehr Begriffe in `tools/vocab*.txt` ergeben mehr und abwechslungsreichere Rätse
 
 ## Veröffentlichung auf kulhanek.at
 
-Bei jedem Push auf `main` veröffentlicht `.github/workflows/pages.yml` die Seite über GitHub Pages.
+Bei jedem Push auf `main` (bzw. den aktuellen Arbeits-Branch) veröffentlicht `.github/workflows/pages.yml` die Seite über GitHub Pages.
 Einmalig nötig:
 
 1. GitHub → Repository **Settings → Pages** → *Source*: **GitHub Actions**.
