@@ -208,7 +208,51 @@
     $('sheetAnswer').textContent = w.answer;
     $('sheetClue').textContent = w.clue;
     $('sheetExpl').textContent = w.expl;
+    $('sheetHintRow').hidden = true; $('sheetOk').hidden = false;
     open('sheet');
+  }
+
+  // Antwort im Erklärungstext verdecken (inkl. Umlaut-Schreibweise)
+  function masked(text, answer) {
+    const forms = new Set([answer, answer.replace(/AE/g, 'Ä').replace(/OE/g, 'Ö').replace(/UE/g, 'Ü'),
+      answer.replace(/SS/g, 'ß'), answer.replace(/AE/g, 'Ä').replace(/OE/g, 'Ö').replace(/UE/g, 'Ü').replace(/SS/g, 'ß')]);
+    const lower = text.toLowerCase();
+    const isL = ch => !!ch && /\p{L}/u.test(ch);
+    const hits = [];
+    [...forms].sort((x, y) => y.length - x.length).forEach(f => {
+      const fl = f.toLowerCase();
+      for (let i = lower.indexOf(fl); i >= 0; i = lower.indexOf(fl, i + 1)) {
+        const edge = !isL(text[i - 1]) || !isL(text[i + f.length]);
+        if (answer.length > 3 || edge) hits.push([i, i + f.length]);
+      }
+    });
+    hits.sort((x, y) => x[0] - y[0]);
+    const frag = document.createDocumentFragment();
+    let last = 0;
+    hits.forEach(([s, e]) => {
+      if (s < last) return;
+      frag.append(text.slice(last, s));
+      const m = document.createElement('span'); m.className = 'mask'; m.textContent = '＿'.repeat(e - s);
+      frag.append(m); last = e;
+    });
+    frag.append(text.slice(last));
+    return frag;
+  }
+
+  function hint(w) {
+    $('sheetTag').textContent = 'Hinweis';
+    $('sheetAnswer').textContent = w.cells.map(([r, c]) => entry[r][c] && marks[r][c] === 'rev' ? entry[r][c] : '＿').join(' ');
+    $('sheetClue').textContent = w.clue;
+    const ex = $('sheetExpl'); ex.textContent = ''; ex.append(masked(w.expl, w.answer));
+    $('sheetHintRow').hidden = false; $('sheetOk').hidden = true;
+    $('sheetReveal').onclick = () => { closeAll(); revealWord(w); };
+    open('sheet');
+  }
+
+  function info() {
+    const w = curWord(); if (!w) return;
+    const right = w.cells.every(([r, c]) => entry[r][c] === P.sol[r][c]);
+    if (finished || right) explain(w, 'Gut zu wissen'); else hint(w);
   }
 
   function revealWord(w) {
@@ -265,6 +309,8 @@
     const played = store.get('xwg-played', []);
     if (!played.includes(P.idx)) {
       played.push(P.idx); store.set('xwg-played', played);
+      const lex = new Set(store.get('xwg-lex', []));
+      P.words.forEach(w => lex.add(w.answer)); store.set('xwg-lex', [...lex]);
       s.solved++; s.total += seconds; s.learned += P.words.length;
       if (!helped) { s.clean++; s.streak++; if (s.best == null || seconds < s.best) s.best = seconds; }
       else s.streak = 0;
@@ -283,6 +329,31 @@
     $('winStats').innerHTML = statsHTML(s);
     const list = $('learnList'); list.innerHTML = ''; list.appendChild(learnHTML());
     setTimeout(() => { $('toast').hidden = true; open('mWin'); }, 450);
+  }
+
+  // ---------- Lexikon ----------
+  function lexWords() {
+    const lex = new Set(store.get('xwg-lex', []));
+    store.get('xwg-played', []).forEach(i => {
+      if (DATA.puzzles[i]) parse(i).words.forEach(w => lex.add(w.answer));
+    });
+    return [...lex].filter(a => DATA.clues[a]).sort((a, b) => a.localeCompare(b, 'de'));
+  }
+  function renderLex() {
+    const all = lexWords();
+    const q = $('lexSearch').value.trim().toLowerCase();
+    const list = $('lexList'); list.innerHTML = '';
+    $('lexInfo').textContent = all.length
+      ? `${all.length} Begriffe aus deinen gelösten Rätseln. Tippe auf einen Begriff, um die Erklärung zu lesen.`
+      : 'Noch leer. Sobald du ein Rätsel löst, landen alle seine Begriffe mit Erklärung hier.';
+    all.filter(a => !q || a.toLowerCase().includes(q) || DATA.clues[a].join(' ').toLowerCase().includes(q)).forEach(a => {
+      const d = document.createElement('details');
+      d.innerHTML = '<summary><div class="w"></div><div class="c"></div></summary><div class="e"></div>';
+      d.querySelector('.w').textContent = a;
+      d.querySelector('.c').textContent = DATA.clues[a][0];
+      d.querySelector('.e').textContent = DATA.clues[a][1];
+      list.appendChild(d);
+    });
   }
 
   // ---------- UI ----------
@@ -323,6 +394,9 @@
     confirmBox('Lernkarten zeigen?', 'Die Karten verraten alle Lösungen. Das Rätsel wird dabei aufgelöst.', 'Zeigen', revealAll);
   };
   $('btnNext').onclick = newPuzzle;
+  $('infoClue').onclick = info;
+  $('mLex').onclick = () => { closeAll(); $('lexSearch').value = ''; renderLex(); open('mLexikon'); };
+  $('lexSearch').addEventListener('input', renderLex);
   $('prevClue').onclick = () => nextWord(-1);
   $('nextClue').onclick = () => nextWord(1);
   $('clue').onclick = () => { toggleDir(); render(); };

@@ -25,7 +25,20 @@ def load_vocab():
                 raise SystemExit(f'Ungültige Antwort: {a}')
             if a not in vocab:
                 vocab[a] = (parts[1].strip(), parts[2].strip())
+    # ausführliche Erklärungen (expl*.txt) ersetzen die kurzen
+    for f in sorted(glob.glob(os.path.join(HERE, 'expl*.txt'))):
+        for line in open(f, encoding='utf-8'):
+            line = line.strip()
+            if not line or '|' not in line:
+                continue
+            a, e = line.split('|', 1)
+            if a in vocab:
+                vocab[a] = (vocab[a][0], e.strip())
+                EXPLAINED.add(a)
     return vocab
+
+
+EXPLAINED = set()
 
 
 def runs(mask, R, C):
@@ -168,7 +181,7 @@ class Filler:
 def worker(args):
     seed, seconds = args
     vocab = load_vocab()
-    words = [w for w in vocab if 3 <= len(w) <= 5]
+    words = [w for w in vocab if 3 <= len(w) <= 5 and w in EXPLAINED]
     rnd = random.Random(seed)
     F = Filler(words, rnd)
     tpls = [t for t in templates() if t[4] >= 18]

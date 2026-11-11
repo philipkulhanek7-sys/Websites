@@ -31,3 +31,14 @@ python3 gen.py 600 ../puzzles.js   # 600 Sekunden suchen, neue Rätsel werden er
 ```
 
 Mehr Begriffe in `tools/vocab*.txt` ergeben mehr und abwechslungsreichere Rätsel.
+
+## Veröffentlichung auf kulhanek.at
+
+Bei jedem Push auf `main` veröffentlicht `.github/workflows/pages.yml` die Seite über GitHub Pages.
+Einmalig nötig:
+
+1. GitHub → Repository **Settings → Pages** → *Source*: **GitHub Actions**.
+2. Unter *Custom domain* `kulhanek.at` eintragen, speichern, später **Enforce HTTPS** anhaken.
+3. Beim Domain-Anbieter (DNS) eintragen:
+   - `A`-Records für `kulhanek.at`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
+   - `CNAME` für `www`: `philipkulhanek7-sys.github.io`

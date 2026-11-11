@@ -1,0 +1,36 @@
+# Veröffentlicht das Spiel aus dem Ordner anno/ auf GitHub Pages (Domain: kulhanek.at)
+name: Website veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Website-Dateien zusammenstellen
+        run: |
+          mkdir _site
+          cp anno/index.html anno/style.css anno/game.js anno/puzzles.js _site/
+          echo "kulhanek.at" > _site/CNAME
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
