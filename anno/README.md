@@ -1,6 +1,6 @@
-# XWORT Geschichte – unbegrenzt
+# ANNO – Geschichtsrätsel ohne Tageslimit
 
-Ein deutsches Mini-Kreuzworträtsel rund um **Geschichte**, im Stil von xwort.com, aber ohne Tageslimit:
+Ein deutsches Mini-Kreuzworträtsel rund um **Geschichte**, im Format täglicher Mini-Kreuzworträtsel wie xwort.com, aber ohne Tageslimit:
 nach jedem Rätsel kommt sofort das nächste.
 
 - **Dichtes Raster** (bis 5×5): Jeder Buchstabe gehört zu einem waagerechten und einem senkrechten Wort.
